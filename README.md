@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GeorgeMichalop
+- 👋 Hi, I’m @GeorgeMichalopoulos
 - 👀 I’m interested in changing my career to software developer.
-- 🌱 I’m currently learning Python...
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any given field in Athens, Greece.
 - 📫 giorgosketsi@gmail.com
 
